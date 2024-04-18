@@ -1,6 +1,6 @@
 # ICS2O Unit #X-YY
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2023/ICD2O-Unit-2-01-PHP-Gabriel-Zanardi/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2023/ICD2O-Unit-2-01-PHP-Gabriel-Zanardi/actions)
 
 ---
 
