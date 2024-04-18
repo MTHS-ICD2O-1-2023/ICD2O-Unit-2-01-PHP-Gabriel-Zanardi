@@ -25,7 +25,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-      <img src="./images/notebook-animation.svg" alt="laptop image" width="250" />
+      <img src="./images/Mr_Worldwide.jpg" alt="Mr. Worldwide" width="250" />
       </div>
       <br />
       <div class="page-content-php">

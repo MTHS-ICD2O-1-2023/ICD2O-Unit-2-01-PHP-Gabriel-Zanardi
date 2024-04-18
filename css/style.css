@@ -29,6 +29,13 @@
   font-size: 1.25rem;
 }
 
+.right-image {
+  height: auto;
+  width: 250px;
+  float: right;
+  margin-top: 5cm;
+}
+
 body {
   background-color: green;
 }
