@@ -32,8 +32,14 @@
       <br />
       <div class="page-content-php">
         <div id="answer">
-          <?php echo '<p>Hello, World!</p>'; ?>
-          <button><?php echo 'Click me'; ?></button>
+          <?php
+          if (isset($_POST['submit'])) {
+            echo '<p>Hello World!</p>';
+          }
+          ?>
+          <form method="post">
+            <button type="submit" name="submit">Click me</button>
+          </form>
         </div>
       </div>
     </main>
